@@ -1,5 +1,9 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
+<!-- badges: start -->
+
+![](https://github.com/moirarenata/practice_package/actions/workflows/test-coverage.yaml/badge.svg)
+<!-- badges: end -->
 
 # penguinclassify
 
